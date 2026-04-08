@@ -28,6 +28,43 @@ of speculative investors.
 ______
 
 
+## How it could work for buyers
+
+
+0. Individuals, or group of friends/family, fill-out general info, such as;
+    - desired land area size, number of rooms, etc.
+    - income range
+    - occupation category
+    - political preferences
+    - requirements, such as being near schools and/or hospitals
+0. Backend heuristics are then used to match those at a similar life stage,
+   while also aiming for a some diversity such as occupations, and;
+    - meet-ups are coordinated between possible new neighbors
+    - those that wish to proceed do so, and those that don't don't
+0. Databases are searched and APIs queried for properties that most closely
+   match a given group's needs and wants, then;
+    - viewings are coordinated with real estate agent(s)
+    - those that wish to proceed do so, and those that don't don't
+0. Corp entity is formed in locale of intended property purchase, and;
+    - local lenders, if necessary, are contacted and purchase is made
+    - local planner is contracted to oversee details such as; construction,
+      insurance, utility hook-ups, etc.
+0. Buyers move in to homes with their new neighbors
+
+
+______
+
+
+## How it may be profitable for Commune Builder
+
+
+Subscription for services to buyers and owners, and partners that have
+successfully delivered services to previous buyers or current owners.
+
+
+______
+
+
 ## Problems and possible solutions
 
 
@@ -74,43 +111,6 @@ Australia;
 Canada and USA;
 
 - https://bridgedataoutput.com/docs/platform/Dashboard
-
-
-______
-
-
-## How it could work for buyers
-
-
-0. Individuals, or group of friends/family, fill-out general info, such as;
-    - desired land area size, number of rooms, etc.
-    - income range
-    - occupation category
-    - political preferences
-    - requirements, such as being near schools and/or hospitals
-0. Backend heuristics are then used to match those at a similar life stage,
-   while also aiming for a some diversity such as occupations, and;
-    - meet-ups are coordinated between possible new neighbors
-    - those that wish to proceed do so, and those that don't don't
-0. Databases are searched and APIs queried for properties that most closely
-   match a given group's needs and wants, then;
-    - viewings are coordinated with real estate agent(s)
-    - those that wish to proceed do so, and those that don't don't
-0. Corp entity is formed in locale of intended property purchase, and;
-    - local lenders, if necessary, are contacted and purchase is made
-    - local planner is contracted to oversee details such as; construction,
-      insurance, utility hook-ups, etc.
-0. Buyers move in to homes with their new neighbors
-
-
-______
-
-
-## How it may be profitable for Commune Builder
-
-
-Subscription for services to buyers and owners, and partners that have
-successfully delivered services to previous buyers or current owners.
 
 
 ______
