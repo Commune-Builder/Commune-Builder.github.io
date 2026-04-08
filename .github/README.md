@@ -31,6 +31,8 @@ ______
 ## Problems and possible solutions
 
 
+### Markets are not designed for individual buyers
+
 Many are understandably disillusioned by the idea of home ownership, both first
 time buyers and those wishing to move, because "current market conditions" and
 systems that created these conditions are not designed for normal individuals
@@ -46,6 +48,32 @@ But, buyers together strong!
 Commune Builder aims to leverage corp entities in a similar fashion to how
 various unions for worker's provides protections and promote their members'
 common interests.
+
+### Data sources are a disaster
+
+Each nation, state/province, and sometimes county or municipality may have
+their own property listing database.  Some of which may have an API, some may
+not.  Many that do provide an API require license(s) be obtained, as well as
+permission via subscription payment.
+
+And after hoops have successfully been jumped through, the data is unclean!
+Unreliable.  Erroneous.  Or some combo of these, and other, things that make
+data aggregation aggravating.
+
+Currently the most sustainable route is likely to query official APIs, cache
+results with TTL, and crowd-source corrections and possibly moderation too.
+
+#### Possible property APIs
+
+> Note: none of the following links are endorsements of a specific service
+
+Australia;
+
+- https://zylalabs.com/api-marketplace/real+estate/australia+realty+api/1476
+
+Canada and USA;
+
+- https://bridgedataoutput.com/docs/platform/Dashboard
 
 
 ______
